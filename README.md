@@ -1,5 +1,5 @@
 ## About this fork
-The original author of this plugin has stopped updating this plugin, so I made this fork to support 1.19.4 and newer versions, you can download the plugin here, but we recommend using Catchball-Reloaded because it is more powerful and also lighter.  
+The original author of this plugin has stopped updating this plugin, so I made this fork to support 1.19.4 and newer versions, you can download the plugin [here](https://github.com/milkteamc/CatchBall-fork/releases), but we recommend using [Catchball-Reloaded](https://github.com/milkteamc/Catchball-Reloaded) because it is more powerful and also lighter.  
 ## The following is from the original release and may not apply to this fork
 ### Introduction:
 - [Spigot(English)](https://www.spigotmc.org/resources/catchball.94867/)
