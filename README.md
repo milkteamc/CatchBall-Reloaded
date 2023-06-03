@@ -1,3 +1,4 @@
+# USE CATCHBALL 1.1.7, DON'T USE THIS FORK https://github.com/NUTT1101/CatchBall/releases
 ## Introduction:
 - [Spigot(English)](https://www.spigotmc.org/resources/catchball.94867/)
 - [巴哈姆特(ChineseTw)](https://forum.gamer.com.tw/C.php?bsn=18673&snA=192726&tnum=2&subbsn=14)
